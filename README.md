@@ -1,2 +1,1 @@
-# invader-train
-begin to learn some bioinformatics and python
+# clusterProfiler of GO analysis for Oryza sativa
